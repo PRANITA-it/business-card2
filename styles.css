@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+    font-family: Georgia;
+}
+
+.avatar {
+    width: 140px;
+    border: 1px solid #fdfcdc;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #a4161a;
+    color: #fdfcdc;
+    border: 6px solid #ffbd00;
+    border-radius: 20px;
+}
